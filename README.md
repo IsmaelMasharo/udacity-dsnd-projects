@@ -1,3 +1,3 @@
-# Udacity Data Science Nanodegree Studies
+# Data Science Projects
 
-This is a repo about my learning path trough the udacity DSND program. It contains some of my work in supervised, unsupervised and deep learning. It's meant to be as a resource for knowledge. 
+Some of the projects I've worked on during my learning path through Data Science. It contains some of my work in supervised, unsupervised and deep learning. Some of the projects are based on the different programs I've enrolled such as the Udacity DSND.
