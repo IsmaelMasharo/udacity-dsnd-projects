@@ -1,3 +1,3 @@
-# Data Science Projects
+# Udacity Data Science Nanodegree Projects
 
-Some of the projects I've worked on during my learning path through Data Science. It contains some of my work in supervised, unsupervised and deep learning. Some of the projects are based on the different programs I've enrolled such as the Udacity DSND.
+Some of the projects I've worked on during my learning path through Data Science. Udacity DSND projects related to supervised, unsupervised and deep learning.
